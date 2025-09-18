@@ -19,8 +19,6 @@ A simple, responsive Body Mass Index (BMI) Calculator built with Flutter. Enter 
 
 ## 📸 Preview
 
-You can add your own screenshots here (e.g., from a device or emulator). A placeholder illustration used in the app assets:
-
 ![App artwork](images/showcase.png)
 
 
